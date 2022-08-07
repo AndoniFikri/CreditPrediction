@@ -1,4 +1,4 @@
-# CreditPrediction
+# Credit Risk Prediction
 
 This project was part of my project during my Virtual Internship Experience at Home Credit as well as my final project for my data science Bootcamp at Dibimbing.id. The goal of the project is to make a model that would easily help Home Credit to make decision on giving credit to customer. 
 
